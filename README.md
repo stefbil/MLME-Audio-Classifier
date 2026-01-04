@@ -2,7 +2,7 @@
 
 This project is part of the Machine Learning for Media Experiences (MLME) course of the Medialogy MSc program at Aalborg University in Copenhagen, Denmark.
 
-(Colab Notebook)[https://colab.research.google.com/drive/1BqLk5yibEToMCvh4GHibGGQPoz7P2tkX?usp=sharing]
+[Colab Notebook](https://colab.research.google.com/drive/1BqLk5yibEToMCvh4GHibGGQPoz7P2tkX?usp=sharing)
 
 ## 🎵 Project Overview
 
